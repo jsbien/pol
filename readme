@@ -1,3 +1,13 @@
-The repository is named after the official ISO-639-3:2007 language code for Polish language. 
+The repository is named after the official ISO-639-3:2007 language
+code for Polish language.
 
-It is intended to contain various scripts and data related to historical Polish.
+It is intended to contain various scripts and data related to
+historical Polish.
+
+At the moment it contains script used to normalize texts, in paricular
+modernizing the spelling.
+
+Note: according to the presentation of November 9th, 2018
+(https://youtu.be/yWa4O7YZPYU?t=269) Emanuel Modrzejewski
+substantially extended the rules for the KorBa project
+(http://www.korba.edu.pl).
